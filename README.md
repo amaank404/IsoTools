@@ -1,6 +1,8 @@
 # IsoTools
 ###### A Simple Set of Tools for managing ISO
 
+For the convenience of user, almost all the tools here use Graphics User Interface (GUI) or in simple language, window system.
+
 ## Guide for Users
 Check out the release tab for downloading the executables and then simply run it
 
