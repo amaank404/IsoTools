@@ -1,3 +1,6 @@
+# Discontinued
+The project has been discontinued and archived. You might face issues with few things and I recommend you to use other ISO mangement tools. Thank you!
+
 # IsoTools
 ###### A Simple Set of Tools for managing ISO
 
